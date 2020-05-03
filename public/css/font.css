@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Sahel;
+    src: url(https://iranvn.ir/fonts/Sahel-FD.eot?a46cbafe8b25629fbd9abc1a7ca73b97);
+    src: url(https://iranvn.ir/fonts/Sahel-FD.eot?a46cbafe8b25629fbd9abc1a7ca73b97?#iefix) format('embedded-opentype'),
+         url(https://iranvn.ir/fonts/Sahel-FD.woff2?d8764bbe94df3218118a34c1f7fb4c3f) format('woff2'),
+         url(https://iranvn.ir/fonts/Sahel-FD.woff?e038dd40617bfe07bcbb4215f7f1f0ce) format('woff'),
+         url(https://iranvn.ir/fonts/Sahel-FD.ttf?915e70ce82ec3fab1f13c76b1c830332) format('truetype');
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: Sahel;
+    src: url(https://iranvn.ir/fonts/Sahel-Bold-FD.eot?0aaebb41d04e32eebfb708c8ad2033ce);
+    src: url(https://iranvn.ir/fonts/Sahel-Bold-FD.eot?0aaebb41d04e32eebfb708c8ad2033ce?#iefix) format('embedded-opentype'),
+         url(https://iranvn.ir/fonts/Sahel-Bold-FD.woff2?31e8577250eb3e3d1975fec2cab061ec) format('woff2'),
+         url(https://iranvn.ir/fonts/Sahel-Bold-FD.woff?a957c738fd77a4110eb78c0ab7a5a7f4) format('woff'),
+         url(https://iranvn.ir/fonts/Sahel-Bold-FD.ttf?3bd2c6e42da9c0dce4622e7d6b677195) format('truetype');
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: Sahel;
+    src: url(https://iranvn.ir/fonts/Sahel-Light-FD.eot?10934b84241b72e19ce21ac4822831ae);
+    src: url(https://iranvn.ir/fonts/Sahel-Light-FD.eot?10934b84241b72e19ce21ac4822831ae?#iefix) format('embedded-opentype'),
+         url(https://iranvn.ir/fonts/Sahel-Light-FD.woff2?9a5da71dc7d7b6369417ffb5adef4419) format('woff2'),
+         url(https://iranvn.ir/fonts/Sahel-Light-FD.woff?5bf81551316ab7ee30044b50dda1bba9) format('woff'),
+         url(https://iranvn.ir/fonts/Sahel-Light-FD.ttf?d224cd62229c18a96ed7e42013bb7cea) format('truetype');
+    font-weight: 300;
+  }
+
+  @font-face {
+    font-family: Sahel;
+    src: url(https://iranvn.ir/fonts/Sahel-SemiBold-FD.eot?0e0f95e7a7fc32fe52cbdd4c7ed13937);
+    src: url(https://iranvn.ir/fonts/Sahel-SemiBold-FD.eot?0e0f95e7a7fc32fe52cbdd4c7ed13937?#iefix) format('embedded-opentype'),
+         url(https://iranvn.ir/fonts/Sahel-SemiBold-FD.woff2?fb6ed5e1f13947cb77b2aa5542833696) format('woff2'),
+         url(https://iranvn.ir/fonts/Sahel-SemiBold-FD.woff?c08f5465423e99f0582b540743567534) format('woff'),
+         url(https://iranvn.ir/fonts/Sahel-SemiBold-FD.ttf?21f67091ea0c73ba39cc4ef93f6ce3eb) format('truetype');
+    font-weight: 600;
+  }
+
+  @font-face {
+    font-family: Sahel;
+    src: url(https://iranvn.ir/fonts/Sahel-Black-FD.eot?38758ff0320a59af3f715de7d0f6da8a);
+    src: url(https://iranvn.ir/fonts/Sahel-Black-FD.eot?38758ff0320a59af3f715de7d0f6da8a?#iefix) format('embedded-opentype'),
+         url(https://iranvn.ir/fonts/Sahel-Black-FD.woff2?7901f305b30741928729ff03f9ddec1e) format('woff2'),
+         url(https://iranvn.ir/fonts/Sahel-Black-FD.woff?4cd5cf70387935643a18e8edf25a0e64) format('woff'),
+         url(https://iranvn.ir/fonts/Sahel-Black-FD.ttf?308bed0e7334d4a845b420c993814610) format('truetype');
+    font-weight: 900;
+  }
+/* endFont */
+
+* {  font-family: "Sahel", sans-serif !important;}
+body { font-family: "Sahel", sans-serif !important;}
+
