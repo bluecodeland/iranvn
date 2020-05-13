@@ -107,7 +107,7 @@
 
 
 .watermelon{
-    background-color: #ff4757 !important;
+    background-color: #fdc5f5 !important;
 
 }
 .gray{
@@ -125,13 +125,16 @@ background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, F
 background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+.pink {
+  background-color: #b388eb;
+}
 
 .bluebell {
     background-color: #ff5e57 !important;
 }
 .black{background-color: black;}
 .pblue{background-color: #2f3542 !important;}
-.pgreen{background-color: #2ed573 !important;}
+.pgreen{background-color: #72ddf7!important; border-style: none !important;color: fff !important;}
 .fontpgreen{color: #2ed573 !important;}
 .fontwatermelon{color:#ff4757  !important;}
 .fontblack{color:black !important;}

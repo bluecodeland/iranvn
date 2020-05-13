@@ -96,7 +96,45 @@
 </div>
 {{-- Specials end --}}
 {{--  ---- ----- -----  --}}
+<!-- Prices -->
 
+
+
+<!-- <section class="pink mb-n4 rtl text-right p-5">
+            <div class="container  d-flex flex-row justify-content-center ">
+            <div class="row">
+            <div class="col-12 py-5">
+                <h1 class="text-center">قیمت ها</h1>
+            </div>
+            <div class="col-md-4 ">
+                <div class="card animated fadeInDown mb-5">
+                    <img src="image/24-7.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <p class="card-text text-right text-justify">خدمات و پشتیبانی ما 24 ساعته و 7 روزه هفته برای شما فعال است</p>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-4 mb-5 animated fadeInUp">
+                <div class="card">
+                    <img src="image/bestoffer.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <p class="card-text text-right text-justify">بهترین پیشنهاد ها و مناسب ترین قیمت ها با حفظ بهترین کیفیت کار در انتظار شماست</p>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-4  mb-md-5 animated fadeInDown">
+                <div class="card">
+                    <img src="image/fast.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <p class="card-text text-right text-justify">ما در سریع ترین زمان ممکن خدمات را به شما مــی رسانیم و در عین حال بهترین کیفیت ممکن را خدمت شما ارائه خواهیم کرد</p>
+                    </div>
+                  </div>
+            </div>
+        </div>       
+            </div>
+
+            
+</section> -->
 {{-- contact-form --}}
     <section class="watermelon mb-n4 rtl text-right p-5">
             <div class="container">
