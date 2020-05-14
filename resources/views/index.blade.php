@@ -76,10 +76,16 @@
 </div>
 {{-- Header end --}}
 {{--  ---- ----- -----  --}}
-
+<div class="container">
+<div class="row d-flex justify-content-center">
+<div class="col-6">
+    <img src="image/divider.png" alt="" class="w-100">
+</div>
+</div>
+</div>
 {{-- Specials start --}}
 <div class="specials mb-5">
-    <div class="container mt-5">
+    <div class="container">
         <div class="row">
             <div class="col-12 py-5 mt-5">
                 <h1 class="text-center">ویژگی خدمات ما</h1>
