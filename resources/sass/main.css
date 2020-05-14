@@ -53,15 +53,30 @@
 
 /* header */
 /* background-image: url('img/header-bg.jpg');background-position: center center; */
-.headerbg {
-   
+.carousel-caption
+{
+   color:black !important;
 }
 /* .specials { background-color: darkorange; min-height: 400px; padding-top: 1rem;
 
 } */
+
+.betaversion {
+  color:black !important;
+  font-size: small !important;
+}
+
+
 /* slider */
-.slider-border img{
-    border-radius: 1.4rem;
+
+.carousel-control-next .carousel-control-prev {
+  color:#b90cf9 !important;
+}
+.slider-border {
+    border-style: solid !important;
+    border-radius: 1.4rem !important;
+    border-color: #b90cf9 !important;
+    border-width: 2px !important;
 }
 /* margins */
 .ma {
@@ -102,8 +117,8 @@
 .fff a {color:#fff !important;}
 .fff i {color:#fff !important; text-decoration: none !important;}
 
-.fff a:hover {color:#2ed573 !important; text-decoration:none !important ; text-decoration-style: none !important;}
-.fff i:hover {color:#2ed573 !important; text-decoration:none !important ; text-decoration-style: none !important;}
+.fff a:hover {color:black !important; text-decoration:none !important ; text-decoration-style: none !important;}
+.fff i:hover {color:black !important; text-decoration:none !important ; text-decoration-style: none !important;}
 
 
 .watermelon{

@@ -16,34 +16,52 @@
     {{-- Header Start --}}
     <div class="headerbg mt-n4 pb-2">
     <div class="container pt-5">
-        <div id="carouselExampleCaptions" class="carousel slide carousel-fade slider-border" data-ride="carousel">
+        <div id="carouselExampleCaptions" class="carousel slide carousel-fade slider-border p-3" data-ride="carousel">
             <ol class="carousel-indicators">
               <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
               <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
               <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+              <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+
             </ol>
             <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img src="image/wp-banner.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-item active">
+                <img src="image/corona.jpg" class="d-block w-100" alt="ارائه راهکار های تجاری برای بیزینس های کوچک در ایام کرونا">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5></h5>
+                  <p></p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="image/wp-banner.jpg" class="d-block w-100" alt="در کوتاه ترین زمان ، سیستم مبتنی بر مدیریت محتوای وردپرس را برای شما راه اندازی می کنیم">
                 <div class="carousel-caption d-none d-md-block">
                   <h5>راهکارهای مبتنی بر وردپرس</h5>
                   <p>در کوتاه ترین زمان ، سیستم مبتنی بر مدیریت محتوای وردپرس را برای شما راه اندازی می کنیم</p>
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="image/laravel-banner.jpg" class="d-block w-100" alt="...">
+                <img src="image/laravel-banner.jpg" class="d-block w-100" alt="طراحی سایت های قدرتمند و جذاب با یکی از قویترین فریم ورک ها و تکنولوژی های روز ، لاراول - laravel">
                 <div class="carousel-caption d-none d-md-block">
                   <h5>پیاده سازی سایت حرفه ای با لاراول</h5>
                   <p>استفاد از یکی از قدترتمندترین تکنولوژی های سمت سرور برای ساخت نرم افزار تحت وب اختصاصی</p>
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="image/advice-banner.jpg" class="d-block w-100" alt="...">
+                <img src="image/moodle.jpg" class="d-block w-100" alt="راه اندازی سیستم مدیریت آموزشی موودل -moodle">
                 <div class="carousel-caption d-none d-md-block">
                   <h5></h5>
-                  <p>ما با ارائه راهنمایی های لازم به شما، درصد موفقیت شما در فضای مجازی را به طور ویژه ای بالا می بریم</p>
+                  <p></p>
                 </div>
               </div>
+              <div class="carousel-item">
+                <img src="image/bigbluebutton.jpg" class="d-block w-100" alt="راه اندازی سیستم وبینار و کلاس آنلاین بیگ بلو باتن - BigBlueButton">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5></h5>
+                  <p></p>
+                </div>
+              </div>
+
+
             </div>
             <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
