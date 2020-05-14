@@ -79,16 +79,16 @@
 
 {{-- Specials start --}}
 <div class="specials mb-5">
-    <div class="container">
+    <div class="container mt-5">
         <div class="row">
-            <div class="col-12 py-5">
+            <div class="col-12 py-5 mt-5">
                 <h1 class="text-center">ویژگی خدمات ما</h1>
             </div>
             <div class="col-md-4 ">
                 <div class="card animated fadeInUp mb-5 slider-border">
                     <img src="image/24-7.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                      <p class="card-text text-right text-justify">خدمات و پشتیبانی ما 24 ساعته و 7 روزه هفته برای شما فعال است</p>
+                      <p class="card-text text-right text-justify"><br />خدمات و پشتیبانی ما 24 ساعته و 7 روزه هفته برای شما فعال است</p>
                     </div>
                   </div>
             </div>
@@ -96,7 +96,7 @@
                 <div class="card slider-border">
                     <img src="image/bestoffer.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                      <p class="card-text text-right text-justify">بهترین پیشنهاد ها و مناسب ترین قیمت ها با حفظ بهترین کیفیت کار در انتظار شماست</p>
+                      <p class="card-text text-right text-justify"><br />بهترین پیشنهاد ها و مناسب ترین قیمت ها با حفظ بهترین کیفیت کار در انتظار شماست</p>
                     </div>
                   </div>
             </div>
