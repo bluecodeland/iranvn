@@ -65,7 +65,10 @@
   color:black !important;
   font-size: small !important;
 }
+.sml{
+  font-family: 'Courier New', Courier, monospace !important;
 
+}
 
 /* slider */
 

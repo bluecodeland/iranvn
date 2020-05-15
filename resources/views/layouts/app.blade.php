@@ -129,7 +129,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                            <div class="fff text-center">© 2019 Copyright<a href="https://iranvn.ir"> Iran Virtual Network</a>
+                            <div class="fff text-center">© <no class="sml">2020</no> Copyright<a href="https://iranvn.ir"> Iran Virtual Network </a>|<small class="sml"> Since 1996</small>
                             </div>
 
                     </div>
