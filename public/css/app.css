@@ -53,27 +53,39 @@
 
 /* header */
 /* background-image: url('img/header-bg.jpg');background-position: center center; */
-.carousel-caption
-{
-   color:black !important;
-}
+
 /* .specials { background-color: darkorange; min-height: 400px; padding-top: 1rem;
 
 } */
 
-.betaversion {
-  color:black !important;
-  font-size: small !important;
+/* Common Styles */
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #b90cf9;
 }
+
+::selection {
+  color: white;
+  background: #b90cf9;
+}
+
 .sml{
   font-family: 'Courier New', Courier, monospace !important;
 
 }
 
 /* slider */
+.carousel-indicators {
+  border-style: solid !important;
+  border-radius: 1.4rem !important;
+  border-color: #b90cf9 !important;
+  border-width: 2px !important;
 
-.carousel-control-next .carousel-control-prev {
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
   color:#b90cf9 !important;
+  border-radius: 50%;
+  background-color:#b90cf9 !important;
 }
 .slider-border {
     border-style: solid !important;

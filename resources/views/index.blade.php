@@ -17,13 +17,6 @@
     <div class="headerbg mt-n4 pb-2">
     <div class="container pt-5">
         <div id="carouselExampleCaptions" class="carousel slide carousel-fade slider-border p-3" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-              <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-              <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-              <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
-
-            </ol>
             <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="image/corona.jpg" class="d-block w-100" alt="ارائه راهکار های تجاری برای بیزینس های کوچک در ایام کرونا">
