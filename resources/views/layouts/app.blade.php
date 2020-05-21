@@ -120,12 +120,13 @@
             </div>
         </nav>
 
-        <main class="py-4">
+        <main class="py-4 ">
             @yield('content')
         </main>
     </div>
         <!-- Copyright -->
-        <div class=" pblue pt-5 pb-5">
+       <footers>
+       <div class=" pblue pt-5 pb-5">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -140,6 +141,8 @@
                 </div>
             </div>
         </div>
+
+       </footer>
         <!-- Copyright -->
 
 </body>

@@ -153,7 +153,7 @@
             
 </section> -->
 {{-- contact-form --}}
-    <section class="watermelon mb-n4 rtl text-right p-5">
+    <section class="pink mb-n4 rtl text-right p-5">
             <div class="container">
                         <!--Section: Contact v.2-->
                 <section class="mb-4">

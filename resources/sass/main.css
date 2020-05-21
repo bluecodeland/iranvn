@@ -159,7 +159,7 @@ background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, F
 
 }
 .pink {
-  background-color: #b388eb;
+  background-color: #b388eb !important;
 }
 
 .bluebell {
