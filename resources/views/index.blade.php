@@ -58,11 +58,11 @@
             </div>
             <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
+              <span class="sr-only">ثبلی</span>
             </a>
             <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
+              <span class="sr-only">بعدی</span>
             </a>
           </div>
     </div>
@@ -76,7 +76,7 @@
 </div>
 </div>
 </div>
-{{-- Specials start --}}
+{{-- Spicials Works start --}}
 <div class="specials mb-5">
     <div class="container">
         <div class="row">
@@ -111,7 +111,75 @@
     </div>
 
 </div>
-{{-- Specials end --}}
+{{-- Spicials Works end --}}
+
+<div class="container">
+<div class="row d-flex justify-content-center">
+<div class="col-6">
+    <img src="image/divider.png" alt="" class="w-100">
+</div>
+</div>
+</div>
+
+{{-- Example Works start --}}
+<div class="specials mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 py-5 mt-5">
+                <h1 class="text-center">نمونه کارهای ما</h1>
+            </div>
+            
+            <div class="col-md-4 ">
+                <div class="card animated fadeInUp mb-5 slider-border">
+                    <div class="card-header pink noneborder">
+                    
+                    <h4 class="text-uppercase"><a href="https://qaim.ir">Qaim.ir</a> </h4>
+                    </div>
+                    <div class="card-body">
+                    
+                        <!-- <h5 class="card-title">Qaim.ir</h5> -->
+                        <p class="card-text text-right text-justify"><br />سایت جامع مدرسه فقه و اصول حضرت قائم عج الله تعالی فرجه الشریف که بر اساس ورد پرس طراحی شده و پشتیبانی می شود
+                        <img class="w-100" src="/image/laravel-banner.jpg" alt="Card image">            
+                        </p>
+                        <div class="text-center"><a href="#" class="btn btnborder">Go somewhere</a></div>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-4 mb-5 animated fadeInUp">
+                <div class="card slider-border">
+                <div class="card-header pink noneborder">
+                <h4 class="text-uppercase"><a href="https://changeyourlife.ir">Changeyourlife.ir</a> </h4>
+                    </div>
+                 
+                    <img src="image/bestoffer.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <p class="card-text text-right text-justify"><br />
+                         ایــــن وب سایـــت شـــخصی با اســــتفاد از سیستم مــدیریت محتوای وردپرس راه اندازی شده و پشتیبانی می شود 
+                      </p>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-4  mb-md-5 animated fadeInUp">
+                <div class="card slider-border ">
+                <div class="card-header pink noneborder">
+                <h4 class="text-uppercase"><a href="https://e.qaim.org">e.qaim.org</a> </h4>
+                    </div>
+                 
+                    <img src="image/fast.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <p class="card-text text-right text-justify">
+                        سیستم مدیریت آموزشی مدرسه عالی فقه و اصول حضرت قائم که براساس سیستم موودل طراحی شده است. 
+                      </p>
+                    </div>
+                  </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+{{-- Example Works end --}}
+
+
 {{--  ---- ----- -----  --}}
 <!-- Prices -->
 
