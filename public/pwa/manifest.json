@@ -1,0 +1,12 @@
+{
+    "name": "iranvn",
+    "short_name": "iranvn",
+    "theme_color": "#b90cf9",
+    "background_color": "#e191ff",
+    "display": "browser",
+    "orientation": "portrait",
+    "Scope": "/",
+    "start_url": "/",
+    "icons": null,
+    "splash_pages": null
+  }

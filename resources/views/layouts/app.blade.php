@@ -20,6 +20,26 @@
     <meta name="twitter:url" content="iranvn.ir" />
     <meta name="twitter:card" content="iranvn.ir" />
     <meta http-equiv="content-language" content="fa-ir" />
+
+    <!-- PWA -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/pwa/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/pwa/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/pwa/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/pwa/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/pwa/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/pwa/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/pwa/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/pwa/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/pwa/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/pwa/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/pwa/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/pwa/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/pwa/favicon-16x16.png">
+    <link rel="manifest" href="/pwa/manifest.json">
+    <meta name="msapplication-TileColor" content="#b90cf9">
+    <meta name="msapplication-TileImage" content="/pwa/ms-icon-144x144.png">
+    <meta name="theme-color" content="#b90cf9">
+    <!-- END PWA -->
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
