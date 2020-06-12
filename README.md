@@ -28,8 +28,8 @@ Please contact me at  [iranvn.ir@gmail.com](iranvn.ir@gmail.com) or Call me on S
 ## ToDoes
 
 - [ ]  Create template
-- [ ]  Create pwa 1st step
-- [ ]  Create auth
+- [X]  Create pwa 1st step
+- [X]  Create auth
 - [ ]  Create roles and permissions 
 
 
