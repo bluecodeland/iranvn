@@ -29,7 +29,21 @@ Please contact me at  [iranvn.ir@gmail.com](iranvn.ir@gmail.com) or Call me on S
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-- []  ** Create template
-- []  ** Create pwa 1st step
-- []  ** Create auth
-- []  ** Create roles and permissions :white_check_mark:
+- [ ]  Create template
+- [ ]  Create pwa 1st step
+- [ ]  Create auth
+- [ ]  Create roles and permissions 
+
+
+<!-- :white_check_mark: 
+     :heavy_check_mark:   
+
+-->
+
+
+| Task           | Time required | Assigned to   | Current Status | Finished | 
+|----------------|---------------|---------------|----------------|-----------|
+| Calendar Cache | > 5 hours  |  | in progress | - [x] ok?
+| Object Cache   | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
+| Object Cache   | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
+| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
