@@ -81,7 +81,7 @@
             <div class="container">
                 <div>
                 <a class="navbar-brand" href="{{ url('/') }}">
-                   <h4><span class="fas fa-cloud pr-2 "></span><strong class="mr-n3">{{ config('app.name', 'گروه شبکه مجازی ایران') }}</strong><i class="betaversion"> ● نسخه آزمایشی </i></h4>
+                   <h4><span class="fas fa-cloud pr-4 "></span>{{ config('app.name', 'گروه شبکه مجازی ایران') }}</h4>
                 </a>
                 <h5 class="pgreen fontblack p-1 pl-2 pr-0 ma-line rounded text-center animated fadeIn slow"><small>Iran Virtual Network</small></h5></div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
