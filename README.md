@@ -32,4 +32,4 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - []  ** Create template
 - []  ** Create pwa 1st step
 - []  ** Create auth
-- []  ** Create roles and permissions
+- []  ** Create roles and permissions :white_check_mark:
