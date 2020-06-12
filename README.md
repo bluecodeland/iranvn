@@ -1,4 +1,4 @@
-<p align="center"><img src="https://iranvn.ir/pwa/apple-icon.png">IranVn Project</p>
+<p align="center"><img src="https://iranvn.ir/pwa/apple-icon.png"></p>
 
 <p align="center">
 ToDoes
